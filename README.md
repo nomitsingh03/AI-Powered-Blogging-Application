@@ -40,25 +40,7 @@ This is the backend of the AI-Powered Blogging Application, built with **Spring 
 ---
 
 ## 🗂️ Project Structure
-src/
-├── main/
-│ ├── java/com/shinom/blogging/
-│ │ ├── controller/ # REST Controllers
-│ │ ├── services/ # Business Logic
-│ │ ├── repositories/ # JPA Repositories
-│ │ ├── dto/ # Request/Response Models
-│ │ ├── entities/ # JPA Entities
-│ │ ├── security/ # JWT Config & Filters
-| | ├── utils/ #utililty class
-| | ├── exceptions/ 
-│ │ └── config/
-│ └── resources/
-│ ├── static
-│ ├── temmplates
-│ ├── application.properties
-│ ├── application-dev.properties
-│ ├── application-prod.properties
-│ └── data.sql
+![Architecture Diagram](assets/Screenshot 2025-06-15 114627.png)
 
 ## 🔑 Security Overview
 
