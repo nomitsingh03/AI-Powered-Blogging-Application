@@ -40,7 +40,7 @@ This is the backend of the AI-Powered Blogging Application, built with **Spring 
 ---
 
 ## 🗂️ Project Structure
-![Architecture Diagram](assets/Screenshot 2025-06-15 114627.png)
+![Image](https://github.com/nomitsingh03/AI-Powered-Blogging-Application_Backend/blob/e9deb6818c4b5ab448aea52042039ea9cae9d73c/assets/Screenshot%202025-06-15%20114627.png)
 
 ## 🔑 Security Overview
 
